@@ -28,7 +28,7 @@ const SongInfo = ({track}: songInfoProps) => {
 
 const styles = StyleSheet.create({
     container: {
-        width: '90%',
+        width: '100%',
         marginTop: 18,
 
         flexDirection: 'row',

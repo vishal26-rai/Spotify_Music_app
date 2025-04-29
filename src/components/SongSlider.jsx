@@ -8,7 +8,7 @@ const SongSlider = () => {
 
   return (
     <View>
-        <slider
+        <Slider
         value={position}
         minimumValue={0}
         maximumValue={duration}
